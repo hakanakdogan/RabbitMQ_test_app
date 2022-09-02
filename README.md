@@ -1,1 +1,1 @@
-# RabbitDeneme
+# RabbitMQ Deneme Uygulaması 
